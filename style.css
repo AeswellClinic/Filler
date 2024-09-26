@@ -123,6 +123,9 @@ object-fit: contain;
         color: #6C151A;
         width: 100%;
     }
+    .header-r-3-8 h1 br{
+        display: none;
+    }
 
     .container-r-3-8 {
 
